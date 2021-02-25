@@ -1,1 +1,1 @@
-![](images/pizza.png)
+![](photos/pizza.png)
