@@ -1,1 +1,1 @@
-![](photos/pizza.png)
+<img src="pictures/pizza.png">
